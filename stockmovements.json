@@ -1,0 +1,98 @@
+[
+    {
+        "id": 238318606,
+        "date": "2020-10-09T21:03:11.4",
+        "movementType": 107,
+        "replenishmentType": "PICKING",
+        "productId": 97911,
+        "quantity": 3,
+        "warehouseId": 1,
+        "orderId": 12549018,
+        "factor": -1,
+        "productLocation": "MB800307613242003095101233643121"
+    },
+    {
+        "id": 238318620,
+        "date": "2020-10-09T21:03:15.997",
+        "movementType": 107,
+        "replenishmentType": "PICKING",
+        "productId": 97911,
+        "quantity": 12,
+        "warehouseId": 1,
+        "orderId": 12549018,
+        "factor": -1,
+        "productLocation": "MB800307613242003095101233643121"
+    },
+    {
+        "id": 238322122,
+        "date": "2020-10-10T01:11:23.28",
+        "movementType": 210,
+        "replenishmentType": "ADJUSTMENT",
+        "productId": 97911,
+        "quantity": 10,
+        "warehouseId": 1,
+        "orderId": 8642228,
+        "factor": 1,
+        "productLocation": "MB800307613242003095101233643121"
+    },
+    {
+        "id": 238322123,
+        "date": "2020-10-10T01:11:23.327",
+        "movementType": 107,
+        "replenishmentType": "PICKING",
+        "productId": 97911,
+        "quantity": 4,
+        "warehouseId": 1,
+        "orderId": 8642228,
+        "factor": -1,
+        "productLocation": "MB800307613242003095101233643121"
+    },
+    {
+        "id": 238322181,
+        "date": "2020-10-11T00:31:49.433",
+        "movementType": 107,
+        "replenishmentType": "PICKING",
+        "productId": 97911,
+        "quantity": 2,
+        "warehouseId": 1,
+        "orderId": 12549018,
+        "factor": -1,
+        "productLocation": "MB800307613242003095101233643568"
+    },
+    {
+        "id": 238322195,
+        "date": "2020-10-11T00:31:51.887",
+        "movementType": 107,
+        "replenishmentType": "PICKING",
+        "productId": 97911,
+        "quantity": 2,
+        "warehouseId": 1,
+        "orderId": 12549018,
+        "factor": -1,
+        "productLocation": "502Q305"
+    },
+    {
+        "id": 238325728,
+        "date": "2020-10-11T06:46:51.077",
+        "movementType": 210,
+        "replenishmentType": "ADJUSTMENT",
+        "productId": 97911,
+        "quantity": 10,
+        "warehouseId": 1,
+        "orderId": 8642228,
+        "factor": 1,
+        "productLocation": "502Q305"
+    },
+    {
+        "id": 238325729,
+        "date": "2020-10-11T06:46:51.103",
+        "movementType": 107,
+        "replenishmentType": "PICKING",
+        "productId": 97911,
+        "quantity": 1,
+        "warehouseId": 1,
+        "orderId": 8642228,
+        "factor": -1,
+        "productLocation": "MB800307613242003095101233643568"
+    }
+]
